@@ -12,3 +12,6 @@ Quick-sort
 Radix-sort (O(n * m))
 Shell-sort (O(n^2))
 Counting-sort (O(n))
+
+== Other algorithms ==
+Binary search
