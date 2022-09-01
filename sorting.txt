@@ -1,0 +1,14 @@
+== O(n^2) ==
+Bubble-sort
+Selection-sort
+Insertion-sort
+
+== O(n * log(n)) == 
+Heap-sort
+Merge-sort
+Quick-sort
+
+== special == 
+Radix-sort (O(n * m))
+Shell-sort (O(n^2))
+Counting-sort (O(n))
